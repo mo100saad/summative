@@ -1,7 +1,7 @@
 # summative
 Summative Project
 
-This change is committed by another contributor.
+This change is committed by a contributor.
 
 # Operations
 
